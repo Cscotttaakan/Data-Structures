@@ -1,0 +1,23 @@
+            Search and Retrieval Transactions
+
+Search Key      Bucket/Slot      Record
+KALLTREE S                    Record not found
+DAC SW INC        5/2         SPRING VAL DALLAS TX
+COMPUADD C        5/3         TECH BLVD. AUSTIN TX
+MICROWAY C        23/1        TEMPOHOUSE LONDON UK
+TATUNG CO.        2/1         EL PR. LONG BEACH CA
+DYSAN CORP        22/1        PAT H SANTA CLARA CA
+DIGITAL RE        12/3        GARDEN C MONTEREY CA
+QUANTBM SW                    Record not found
+PROMETHEUS        29/1        FREMONT S FREMONT CA
+EVEREX SYS        17/2        MILMONT FREMONT,  CA
+MICROMART.        13/2        CAMPUS D NORCROSS GE
+PARADISE S        4/2         TAYLOR S BRISBANE CA
+SPECTRUM S        10/3        WOLFE R SUNNYVALE CA
+MICRODESIG        4/1         UNVIE WINTER PARK FL
+MAXELL CO.        11/1        OXFORD  MOONACHIE NJ
+AMDEK COR,                    Record not found
+TECMAR INT        9/1         COCHRAN RD. SOLON OH
+IBM CORPOR        18/2        BOCA RATON,  FLORIDA
+OHCHID COR                    Record not found
+FUN  SOFTW                    Record not found

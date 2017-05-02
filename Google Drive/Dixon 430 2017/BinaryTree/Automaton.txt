@@ -1,0 +1,27 @@
+Automaton
+Psueuo Coding
+GIGO
+State Machine
+Key Field
+Neural Net
+Pass L
+T2 Link
+Vectored Processor
+Flip Flop
+FDDI
+OSI
+OOD
+Abstraction
+Isolation
+Normalization
+Parallel Architecture
+Dope Vector
+DFD
+os/2
+Uplink
+Control Layer
+Milstd 2L67A
+Global Variable
+Distributed Processing
+Mhz
+Substrate

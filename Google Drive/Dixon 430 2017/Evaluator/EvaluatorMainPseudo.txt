@@ -1,0 +1,7 @@
+main
+{
+intialize evaluator
+run evaluator tokenizer
+evaluate token list
+print final value
+}

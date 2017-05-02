@@ -1,0 +1,182 @@
+Hash Table
+Stat Report
+Bucket 1
+      Slot 1: GENOA SYSTTRIMBLE SAN JOSE, CA
+      Counter: 1
+      Overflow: 0
+
+Bucket 2
+      Slot 1: TATUNG CO.EL PR. LONG BEACH CA
+      Slot 2: CORE INTERFEDERA BOCA RATON FL
+      Slot 3: CURITS INCUNIO PETERBOROUGH NH
+      Counter: 3
+      Overflow: 0
+
+Bucket 3
+      Slot 1: SIGMA DESIUNIVER A SAN JOSE CA
+      Slot 2: TAXAN CORPCITY OF INDUSTRY, CA
+      Slot 3: ORCHID CORWESTINGHO FREMONT CA
+      Counter: 3
+      Overflow: 1
+
+Bucket 4
+      Slot 1: MICRODESIGUNVIE WINTER PARK FL
+      Slot 2: PARADISE STAYLOR S BRISBANE CA
+      Slot 3: INTERLUDE.RICHMOND HOUSTON, TX
+      Counter: 3
+      Overflow: 3
+
+Bucket 5
+      Slot 1: AST RESEARALTON AV IRVINE   CA
+      Slot 2: DAC SW INCSPRING VAL DALLAS TX
+      Slot 3: COMPUADD CTECH BLVD. AUSTIN TX
+      Counter: 3
+      Overflow: 0
+
+Bucket 6
+      Slot 1: MAYNARD ELSEMOR CASSELBERRY FL
+      Counter: 1
+      Overflow: 0
+
+Bucket 7
+      Slot 1: SUMMIT TECBABSON WELLESLEY, MA
+      Slot 2: MICROGRAFXGREEN RICHARDSON, TX
+      Slot 3: BUSSIN TOL128 AVE BELLEVUE, WA
+      Counter: 3
+      Overflow: 1
+
+Bucket 8
+      Slot 1: ROSESOFT CUNIVE WAY SEATTLE WA
+      Slot 2: OKIDATA COA MOUNTAIN LAUREL NJ
+      Counter: 2
+      Overflow: 0
+
+Bucket 9
+      Slot 1: TECMAR INTCOCHRAN RD. SOLON OH
+      Slot 2: QUANTUM SWSTAFFO OTTAWA CANADA
+      Counter: 2
+      Overflow: 0
+
+Bucket 10
+      Slot 1: PRINCETON.EWING S PRINCETON NJ
+      Slot 2: HEWLETT PABERNARD SAN DIEGO CA
+      Slot 3: SPECTRUM SWOLFE R SUNNYVALE CA
+      Counter: 3
+      Overflow: 0
+
+Bucket 11
+      Slot 1: MAXELL CO.OXFORD  MOONACHIE NJ
+      Slot 2: SOURCE TELPOBOX 1305 MCLEAN VA
+      Slot 3: QUBIE CORPCALLE S CAMARILLO CA
+      Counter: 3
+      Overflow: 0
+
+Bucket 12
+      Slot 1: KAMERMAN LCIRRUS BEAVERTON, OR
+      Slot 2: EPSON AMERBEDA STR TORRANCE CA
+      Slot 3: DIGITAL REGARDEN C MONTEREY CA
+      Counter: 3
+      Overflow: 0
+
+Bucket 13
+      Slot 1: HERCULES CNINTH ST BERKELEY CA
+      Slot 2: MICROMART.CAMPUS D NORCROSS GE
+      Slot 3: BORTHER I.THENALA DR IRVINE CA
+      Counter: 3
+      Overflow: 0
+
+Bucket 14
+      Slot 1: EXPRESS SYREMING SCHAUMBURG IL
+      Slot 2: IOMEGA CORWESTA SOUTH ROY UTAH
+      Slot 3: BORLAND I.SCOTTS V. DR S.V. CA
+      Counter: 3
+      Overflow: 0
+
+Bucket 15
+      Counter: 0
+      Overflow: 0
+
+Bucket 16
+      Slot 1: GRAPHIC CO5TH AVE. WALTHAM, MA
+      Slot 2: MICROPRO IBOX 57135 HAYWARD CA
+      Slot 3: PROSOFT COBELLAI HOLLEYWOOD CA
+      Counter: 3
+      Overflow: 1
+
+Bucket 17
+      Slot 1: SSISOFTWARCENTER ST. OREM UTAH
+      Slot 2: EVEREX SYSMILMONT FREMONT,  CA
+      Counter: 2
+      Overflow: 0
+
+Bucket 18
+      Slot 1: LOGIQUEST.MONTRE QUEBEC CANADA
+      Slot 2: IBM CORPORBOCA RATON,  FLORIDA
+      Counter: 2
+      Overflow: 0
+
+Bucket 19
+      Slot 1: QUADRAM COLOACH AV NORCROSS GE
+      Slot 2: MICROSTUF,H.W. PKWY ROSWELL GE
+      Slot 3: NCR COORPOBOWLING DR DAYTON OH
+      Counter: 3
+      Overflow: 2
+
+Bucket 20
+      Slot 1: VEN-TAL INWALSH SANTA CLARA CA
+      Slot 2: VICTOR CORSCOTTS VALLEY, CALIF
+      Slot 3: INTEL COOR5 ST MOUNTAINVIEW CA
+      Counter: 3
+      Overflow: 1
+
+Bucket 21
+      Slot 1: HONEYWELL.BAKER COSTA MESA, CA
+      Counter: 1
+      Overflow: 0
+
+Bucket 22
+      Slot 1: DYSAN CORPPAT H SANTA CLARA CA
+      Counter: 1
+      Overflow: 0
+
+Bucket 23
+      Slot 1: MICROWAY CTEMPOHOUSE LONDON UK
+      Counter: 1
+      Overflow: 0
+
+Bucket 24
+      Slot 1: EMERSON COSTAN ST SANTA ANA CA
+      Slot 2: TALLTREE SSNTONIO PALO ALTO CA
+      Slot 3: AMDEK COR.MAINE GROVE VALLY IL
+      Counter: 3
+      Overflow: 0
+
+Bucket 25
+      Slot 1: CHANNELS IKI ST TORONTO CANADA
+      Counter: 1
+      Overflow: 0
+
+Bucket 26
+      Counter: 0
+      Overflow: 0
+
+Bucket 27
+      Counter: 0
+      Overflow: 0
+
+Bucket 28
+      Counter: 0
+      Overflow: 0
+
+Bucket 29
+      Slot 1: PROMETHEUSFREMONT S FREMONT CA
+      Slot 2: FUNK SOFTW3RD ST CAMBRIDGE, MA
+      Counter: 2
+      Overflow: 0
+
+Bucket 30
+      Counter: 0
+      Overflow: 0
+
+Average collisions: 2.2941176470588234
+Total Collisions: 39.0
